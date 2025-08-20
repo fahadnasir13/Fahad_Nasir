@@ -63,7 +63,7 @@ I build **AI-powered systems, automation agents, computer vision apps, and full-
 ##  Let's Connect
 
 * 🌐 Portfolio: [GitHub](https://github.com/fahadnasir13)
-* 💼 LinkedIn: [Fahad Nasir](https://linkedin.com/in/fahad-nasir)
+* 💼 LinkedIn: [Fahad Nasir](http://www.linkedin.com/in/fahadnasir15)
 * 📧 Email: [fahadnasir1311@gmail.com](mailto:fahadnasir1311@gmail.com)
 
 
